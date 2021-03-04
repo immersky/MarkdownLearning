@@ -707,7 +707,7 @@ class Employee:
 
 官方下载地址<https://www.typora.io/#windows>
 
-*本md文件下载&预览地址（）:<https://github.com/immersky/MarkdownLearning>*
+*本md文件下载&预览地址（）:<https://github.com/immersky/MarkdownLearning/blob/main/README.md>*
 *在这里看比较舒服，不会出现不支持显示效果的情况*
 
 
